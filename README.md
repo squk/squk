@@ -6,6 +6,7 @@
 # 🌱 I’m currently learning
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![WEBASSEMBLY](https://img.shields.io/badge/_-WASM-04133B.svg?style=for-the-badge)
 
 # 🔭 Tools of the Trade
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
